@@ -1,5 +1,7 @@
 # CRA `location.hash` router
 
+[**WEB**](https://tomashubelbauer.github.io/cra-location-hash-router)
+
 In this repository I validate my idea for client+server routing solution using
 the URL fragments.
 
