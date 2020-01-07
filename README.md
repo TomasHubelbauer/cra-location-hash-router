@@ -14,3 +14,5 @@ solution doesn't produced nice URLs, it relies on the octothorpe character, but
 it works without the 404 and is simple to implement on the client side.
 
 https://github.com/TomasHubelbauer/cra-location-search-router
+
+## To-Do
