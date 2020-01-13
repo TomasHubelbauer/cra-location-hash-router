@@ -16,3 +16,5 @@ it works without the 404 and is simple to implement on the client side.
 https://github.com/TomasHubelbauer/cra-location-search-router
 
 ## To-Do
+
+## Fix the GitHub security alert
