@@ -18,3 +18,7 @@ https://github.com/TomasHubelbauer/cra-location-search-router
 ## To-Do
 
 ## Fix the GitHub security alert
+
+### Set up GitHub Actions for the CRA and use as the GitHub Pages site
+
+Refresh the CRA scaffold while I'm at it.
